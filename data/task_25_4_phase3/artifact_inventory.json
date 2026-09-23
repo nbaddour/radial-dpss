@@ -1,0 +1,89 @@
+{
+  "task": "25.4 Phase 3 consolidated artifact inventory",
+  "source_hashes": {
+    "reference_manifest": "220b2e27157aed5624687285f786f867f224379360acf1425811707d7b7645e5",
+    "certification": "40935eec581a657461551153769486ac4637f166415a938e7bc105fee9082382",
+    "structure": "3964e7f7ece5a0731adf05b79f86225dbcf83e7062b485e09bfa4dee4bd446d3",
+    "fixed_mechanism": "73e35c9af51363d2c97696e53a89f8e9a5e0e9749ab138c8d3427392ecd3c358",
+    "oracle": "b7fee83d6901f29ebe86a6b228e57a7f7fb01fd1465e4a003ce8886b3bc71b4e",
+    "boundary": "c8d708f064feb76efa400a01a6bb542612cea38d40c8e66eeda77f1da83ce6b4",
+    "timing": "ba3ed10298fb3a158499e0c8679af61aeaf0ac9917ba5e959b45ccc2d8d9db1b"
+  },
+  "outputs": [
+    {
+      "path": "data\\task_25_4_phase3\\manifest.json",
+      "sha256": "220b2e27157aed5624687285f786f867f224379360acf1425811707d7b7645e5",
+      "bytes": 138070
+    },
+    {
+      "path": "data\\task_25_4_phase3\\modes.csv",
+      "sha256": "85fb13934191de86bcdc596ec157a15d383b1f26e3d18fd307c425dc66944754",
+      "bytes": 6546
+    },
+    {
+      "path": "data\\task_25_4_phase3\\reference.npz",
+      "sha256": "122de68c5840ceedd448569475b16782a99e9070641f58586e3471085bc5408d",
+      "bytes": 11955
+    },
+    {
+      "path": "data\\task_25_4_phase3\\certification.csv",
+      "sha256": "8667635a743c7a019b1b5b1aba10364ef0f248531c142fecbb4a2078faf5567b",
+      "bytes": 102504
+    },
+    {
+      "path": "data\\task_25_4_phase3\\structure.csv",
+      "sha256": "15b6bf3a5d678a1ee614da8ffebc1e039683e4de0a9a56a60ff0fd6729854322",
+      "bytes": 23852
+    },
+    {
+      "path": "data\\task_25_4_phase3\\mechanism.csv",
+      "sha256": "e552026b91d4fb54964c7e71bee8c30e8e3d477daae3b36f8eea27bba2a9cbb0",
+      "bytes": 161700
+    },
+    {
+      "path": "data\\task_25_4_phase3\\boundary.csv",
+      "sha256": "999f4cadfce0115918642f5e0253265027c5b3f450b5e945314d26926232def4",
+      "bytes": 40209
+    },
+    {
+      "path": "data\\task_25_4_phase3\\timing.csv",
+      "sha256": "8adde360fef7095167718ec2d229201440626edbb06b17bb1b43a487992d4a09",
+      "bytes": 138414
+    },
+    {
+      "path": "data\\task_25_4_phase3\\failure_log.json",
+      "sha256": "24c1247b266ae14b009f702c88665ccaeb10a3ae317373f41982677399402f01",
+      "bytes": 1254
+    },
+    {
+      "path": "data\\task_25_4_phase3\\figures\\certification_ladder.png",
+      "sha256": "ecfb4dce25e2473be61a94b89e6aed4d75fc2c133084237279057a799b96facc",
+      "bytes": 30486
+    },
+    {
+      "path": "data\\task_25_4_phase3\\figures\\structure_block_monotonicity.png",
+      "sha256": "0d84ef415c31096ba62ecde20b7bc03c87af41b2ac2b9dba5648bd41ff9fef71",
+      "bytes": 54400
+    },
+    {
+      "path": "data\\task_25_4_phase3\\figures\\mechanism_signed_offset.png",
+      "sha256": "bd073065cb6f3562bf3bf262b715f3ea9f6fdf9e30b5efe1baf0fffcc4edafe5",
+      "bytes": 80826
+    },
+    {
+      "path": "data\\task_25_4_phase3\\figures\\mechanism_rates_normalized.png",
+      "sha256": "350157321fb83018685e79ba01d9ff103e9e7ba7fd86bca9f9e49f7105b72561",
+      "bytes": 107327
+    },
+    {
+      "path": "data\\task_25_4_phase3\\figures\\boundary_control.png",
+      "sha256": "c771cf6abce883def4dcdefce73785f7374b01ac871501115975a0a4679c6038",
+      "bytes": 105489
+    },
+    {
+      "path": "data\\task_25_4_phase3\\figures\\timing_assembly_reuse.png",
+      "sha256": "05157ac61c3ba2311624486a613821bffbfd1f47929724e4308845f30702b83b",
+      "bytes": 82383
+    }
+  ]
+}

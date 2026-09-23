@@ -1,0 +1,225 @@
+method,n,c,parameter_path,dimension_old,dimension_new,block_defect_norm_2,relative_block_defect,raw_negative_increment_count,significant_negative_increment_count,minimum_increment
+project,0,10,fixed continuous c,8,11,0.0,0.0,0,0,6.523494511562023e-12
+project,0,10,fixed continuous c,11,15,0.0,0.0,1,0,-1.5862089010981467e-18
+project,0,10,fixed continuous c,15,23,0.0,0.0,0,0,8.051169926547141e-19
+project,0,10,fixed continuous c,23,35,0.0,0.0,0,0,9.442563764221681e-18
+project,0,10,fixed continuous c,35,51,0.0,0.0,4,0,-3.173111542792549e-18
+project,0,10,fixed continuous c,51,67,0.0,0.0,2,0,-1.0970276444363958e-17
+project,0,10,fixed continuous c,67,99,0.0,0.0,7,0,-8.09989146703005e-18
+project,0,20,fixed continuous c,11,14,0.0,0.0,0,0,1.1102230246251565e-16
+project,0,20,fixed continuous c,14,18,0.0,0.0,1,0,-1.1102230246251565e-16
+project,0,20,fixed continuous c,18,26,0.0,0.0,0,0,1.9467305397808395e-17
+project,0,20,fixed continuous c,26,38,0.0,0.0,2,0,-1.1102230246251565e-16
+project,0,20,fixed continuous c,38,54,0.0,0.0,0,0,1.129445762266107e-17
+project,0,20,fixed continuous c,54,70,0.0,0.0,0,0,0.0
+project,0,20,fixed continuous c,70,102,0.0,0.0,7,0,-5.551115123125783e-16
+project,0,40,fixed continuous c,17,20,0.0,0.0,3,0,-5.551115123125783e-16
+project,0,40,fixed continuous c,20,24,0.0,0.0,5,0,-8.881784197001252e-16
+project,0,40,fixed continuous c,24,32,0.0,0.0,4,0,-7.771561172376096e-16
+project,0,40,fixed continuous c,32,44,0.0,0.0,0,0,1.2596903650737596e-18
+project,0,40,fixed continuous c,44,60,0.0,0.0,10,0,-1.5543122344752192e-15
+project,0,40,fixed continuous c,60,76,0.0,0.0,1,0,-6.105447659262976e-18
+project,0,40,fixed continuous c,76,108,0.0,0.0,9,0,-6.661338147750939e-16
+project,0,80,fixed continuous c,30,33,0.0,0.0,0,0,0.0
+project,0,80,fixed continuous c,33,37,0.0,0.0,9,0,-4.440892098500626e-16
+project,0,80,fixed continuous c,37,45,0.0,0.0,8,0,-6.661338147750939e-16
+project,0,80,fixed continuous c,45,57,0.0,0.0,10,0,-7.771561172376096e-16
+project,0,80,fixed continuous c,57,73,0.0,0.0,6,0,-3.3306690738754696e-16
+project,0,80,fixed continuous c,73,89,0.0,0.0,15,0,-3.3306690738754696e-16
+project,0,80,fixed continuous c,89,121,0.0,0.0,10,0,-3.3306690738754696e-16
+project,1,10,fixed continuous c,7,10,0.0,0.0,0,0,2.736072661581401e-10
+project,1,10,fixed continuous c,10,14,0.0,0.0,0,0,4.396268236160621e-17
+project,1,10,fixed continuous c,14,22,0.0,0.0,1,0,-5.028478750713292e-18
+project,1,10,fixed continuous c,22,34,0.0,0.0,0,0,3.871512720992974e-18
+project,1,10,fixed continuous c,34,50,0.0,0.0,0,0,2.1002822104310506e-18
+project,1,10,fixed continuous c,50,66,0.0,0.0,1,0,-1.8675858695828757e-19
+project,1,10,fixed continuous c,66,98,0.0,0.0,6,0,-5.845973771473722e-17
+project,1,20,fixed continuous c,11,14,0.0,0.0,0,0,2.220446049250313e-15
+project,1,20,fixed continuous c,14,18,0.0,0.0,0,0,5.784221207805191e-17
+project,1,20,fixed continuous c,18,26,0.0,0.0,0,0,3.3209083000112515e-17
+project,1,20,fixed continuous c,26,38,0.0,0.0,0,0,2.160170956034371e-17
+project,1,20,fixed continuous c,38,54,0.0,0.0,3,0,-9.424545947174204e-18
+project,1,20,fixed continuous c,54,70,0.0,0.0,0,0,2.142773739368154e-18
+project,1,20,fixed continuous c,70,102,0.0,0.0,2,0,-8.22555879836225e-18
+project,1,40,fixed continuous c,17,20,0.0,0.0,2,0,-5.551115123125783e-16
+project,1,40,fixed continuous c,20,24,0.0,0.0,2,0,-6.661338147750939e-16
+project,1,40,fixed continuous c,24,32,0.0,0.0,4,0,-3.3306690738754696e-16
+project,1,40,fixed continuous c,32,44,0.0,0.0,1,0,-3.3306690738754696e-16
+project,1,40,fixed continuous c,44,60,0.0,0.0,6,0,-7.424834002509483e-17
+project,1,40,fixed continuous c,60,76,0.0,0.0,8,0,-1.1102230246251565e-15
+project,1,40,fixed continuous c,76,108,0.0,0.0,4,0,-2.220446049250313e-16
+project,1,80,fixed continuous c,30,33,0.0,0.0,8,0,-4.440892098500626e-16
+project,1,80,fixed continuous c,33,37,0.0,0.0,3,0,-6.661338147750939e-16
+project,1,80,fixed continuous c,37,45,0.0,0.0,4,0,-6.661338147750939e-16
+project,1,80,fixed continuous c,45,57,0.0,0.0,7,0,-6.661338147750939e-16
+project,1,80,fixed continuous c,57,73,0.0,0.0,10,0,-6.661338147750939e-16
+project,1,80,fixed continuous c,73,89,0.0,0.0,4,0,-9.992007221626409e-16
+project,1,80,fixed continuous c,89,121,0.0,0.0,16,0,-9.992007221626409e-16
+project,2,10,fixed continuous c,7,10,0.0,0.0,0,0,8.256045685478441e-12
+project,2,10,fixed continuous c,10,14,0.0,0.0,0,0,1.3158225282014763e-17
+project,2,10,fixed continuous c,14,22,0.0,0.0,1,0,-4.154935397626651e-18
+project,2,10,fixed continuous c,22,34,0.0,0.0,0,0,6.363381544876168e-18
+project,2,10,fixed continuous c,34,50,0.0,0.0,1,0,-1.7561290940745695e-18
+project,2,10,fixed continuous c,50,66,0.0,0.0,0,0,2.964046108663602e-20
+project,2,10,fixed continuous c,66,98,0.0,0.0,13,0,-3.532932857633052e-17
+project,2,20,fixed continuous c,10,13,0.0,0.0,0,0,1.8429702208777599e-13
+project,2,20,fixed continuous c,13,17,0.0,0.0,0,0,1.2866705651943778e-16
+project,2,20,fixed continuous c,17,25,0.0,0.0,0,0,3.796603865305377e-17
+project,2,20,fixed continuous c,25,37,0.0,0.0,1,0,-2.366922235554277e-17
+project,2,20,fixed continuous c,37,53,0.0,0.0,0,0,8.646774822815854e-19
+project,2,20,fixed continuous c,53,69,0.0,0.0,5,0,-8.137894991901224e-17
+project,2,20,fixed continuous c,69,101,0.0,0.0,2,0,-2.644390310317733e-18
+project,2,40,fixed continuous c,16,19,0.0,0.0,1,0,-3.3306690738754696e-16
+project,2,40,fixed continuous c,19,23,0.0,0.0,4,0,-3.3306690738754696e-16
+project,2,40,fixed continuous c,23,31,0.0,0.0,4,0,-1.2212453270876722e-15
+project,2,40,fixed continuous c,31,43,0.0,0.0,3,0,-3.3306690738754696e-16
+project,2,40,fixed continuous c,43,59,0.0,0.0,8,0,-2.220446049250313e-16
+project,2,40,fixed continuous c,59,75,0.0,0.0,13,0,-8.881784197001252e-16
+project,2,40,fixed continuous c,75,107,0.0,0.0,10,0,-1.1102230246251565e-15
+project,2,80,fixed continuous c,29,32,0.0,0.0,8,0,-6.661338147750939e-16
+project,2,80,fixed continuous c,32,36,0.0,0.0,0,0,0.0
+project,2,80,fixed continuous c,36,44,0.0,0.0,13,0,-1.7763568394002505e-15
+project,2,80,fixed continuous c,44,56,0.0,0.0,4,0,-2.4787072038759763e-16
+project,2,80,fixed continuous c,56,72,0.0,0.0,9,0,-8.881784197001252e-16
+project,2,80,fixed continuous c,72,88,0.0,0.0,23,0,-9.992007221626409e-16
+project,2,80,fixed continuous c,88,120,0.0,0.0,1,0,-4.440892098500626e-16
+project,4,10,fixed continuous c,6,9,0.0,0.0,0,0,1.6863848951454265e-11
+project,4,10,fixed continuous c,9,13,0.0,0.0,0,0,5.619110246964938e-18
+project,4,10,fixed continuous c,13,21,0.0,0.0,0,0,1.172590325883243e-18
+project,4,10,fixed continuous c,21,33,0.0,0.0,0,0,2.841742110632293e-18
+project,4,10,fixed continuous c,33,49,0.0,0.0,0,0,1.8316937537837902e-18
+project,4,10,fixed continuous c,49,65,0.0,0.0,13,0,-2.1072289439779554e-17
+project,4,10,fixed continuous c,65,97,0.0,0.0,0,0,3.077386799691226e-19
+project,4,20,fixed continuous c,9,12,0.0,0.0,0,0,3.0007563101008827e-10
+project,4,20,fixed continuous c,12,16,0.0,0.0,0,0,1.0246702027660714e-16
+project,4,20,fixed continuous c,16,24,0.0,0.0,0,0,2.0654414394528052e-17
+project,4,20,fixed continuous c,24,36,0.0,0.0,1,0,-2.2527027255329846e-19
+project,4,20,fixed continuous c,36,52,0.0,0.0,0,0,2.169466218680087e-18
+project,4,20,fixed continuous c,52,68,0.0,0.0,3,0,-6.029410316639658e-17
+project,4,20,fixed continuous c,68,100,0.0,0.0,1,0,-6.830456219821136e-19
+project,4,40,fixed continuous c,16,19,0.0,0.0,0,0,4.440892098500626e-16
+project,4,40,fixed continuous c,19,23,0.0,0.0,3,0,-7.771561172376096e-16
+project,4,40,fixed continuous c,23,31,0.0,0.0,2,0,-3.3306690738754696e-16
+project,4,40,fixed continuous c,31,43,0.0,0.0,1,0,-7.771561172376096e-16
+project,4,40,fixed continuous c,43,59,0.0,0.0,8,0,-4.440892098500626e-16
+project,4,40,fixed continuous c,59,75,0.0,0.0,8,0,-2.220446049250313e-16
+project,4,40,fixed continuous c,75,107,0.0,0.0,15,0,-6.661338147750939e-16
+project,4,80,fixed continuous c,28,31,0.0,0.0,1,0,-2.220446049250313e-16
+project,4,80,fixed continuous c,31,35,0.0,0.0,12,0,-1.4432899320127035e-15
+project,4,80,fixed continuous c,35,43,0.0,0.0,0,0,0.0
+project,4,80,fixed continuous c,43,55,0.0,0.0,10,0,-8.881784197001252e-16
+project,4,80,fixed continuous c,55,71,0.0,0.0,9,0,-8.881784197001252e-16
+project,4,80,fixed continuous c,71,87,0.0,0.0,7,0,-6.661338147750939e-16
+project,4,80,fixed continuous c,87,119,0.0,0.0,4,0,-4.440892098500626e-16
+Boulsane_large_N,0,10,fixed continuous c; Boulsane large-N offset,8,11,0.7108978942641916,0.7108978942641916,3,3,-0.004378459267975532
+Boulsane_large_N,0,10,fixed continuous c; Boulsane large-N offset,11,15,0.70163212213164,0.70163212213164,3,3,-0.0022492990704358062
+Boulsane_large_N,0,10,fixed continuous c; Boulsane large-N offset,15,23,0.8444508612266418,0.8444508612266418,3,3,-0.0015028931611241747
+Boulsane_large_N,0,10,fixed continuous c; Boulsane large-N offset,23,35,0.8389170201257816,0.8389170201257816,3,3,-0.0006345700380558927
+Boulsane_large_N,0,10,fixed continuous c; Boulsane large-N offset,35,51,0.7959249108944441,0.7959249108944441,5,3,-0.0002563766919694288
+Boulsane_large_N,0,10,fixed continuous c; Boulsane large-N offset,51,67,0.6482566501942926,0.6482566501942926,5,3,-9.633380763363064e-05
+Boulsane_large_N,0,10,fixed continuous c; Boulsane large-N offset,67,99,0.8122255908859684,0.8122255908859684,3,3,-7.212401567602278e-05
+Boulsane_large_N,0,20,fixed continuous c; Boulsane large-N offset,11,14,0.9039984052049616,0.9039984052049616,5,4,-0.006156322034125528
+Boulsane_large_N,0,20,fixed continuous c; Boulsane large-N offset,14,18,0.9170638519404103,0.9170638519404103,6,4,-0.0037566968496269837
+Boulsane_large_N,0,20,fixed continuous c; Boulsane large-N offset,18,26,0.9808701907539844,0.9808701907539844,5,4,-0.0029189930083752813
+Boulsane_large_N,0,20,fixed continuous c; Boulsane large-N offset,26,38,0.9829468143895765,0.9829468143895765,6,4,-0.0014099296482630308
+Boulsane_large_N,0,20,fixed continuous c; Boulsane large-N offset,38,54,0.9770872668861965,0.9770872668861965,6,4,-0.0006240527918668359
+Boulsane_large_N,0,20,fixed continuous c; Boulsane large-N offset,54,70,0.9274353205302464,0.9274353205302464,6,4,-0.0002477985392520532
+Boulsane_large_N,0,20,fixed continuous c; Boulsane large-N offset,70,102,0.9825139896109991,0.9825139896109991,6,4,-0.00019281931081682746
+Boulsane_large_N,0,40,fixed continuous c; Boulsane large-N offset,17,20,0.9732805875350452,0.9732805875350439,10,5,-0.011170326952973708
+Boulsane_large_N,0,40,fixed continuous c; Boulsane large-N offset,20,24,0.9866390336688541,0.9866390336688536,11,6,-0.0068540412654490845
+Boulsane_large_N,0,40,fixed continuous c; Boulsane large-N offset,24,32,0.9992579240753908,0.9992579240753904,9,6,-0.005688522121583772
+Boulsane_large_N,0,40,fixed continuous c; Boulsane large-N offset,32,44,0.9996682340282902,0.9996682340282895,11,6,-0.0030459960686439747
+Boulsane_large_N,0,40,fixed continuous c; Boulsane large-N offset,44,60,0.9995912984572731,0.9995912984572727,10,6,-0.0014853997472259461
+Boulsane_large_N,0,40,fixed continuous c; Boulsane large-N offset,60,76,0.9973773230080999,0.9973773230080999,13,6,-0.0006330374689103024
+Boulsane_large_N,0,40,fixed continuous c; Boulsane large-N offset,76,108,0.9998848500746561,0.9998848500746559,8,6,-0.0005210307685969973
+Boulsane_large_N,0,80,fixed continuous c; Boulsane large-N offset,30,33,0.9927947742949805,0.992794774294979,13,5,-0.009430737301335257
+Boulsane_large_N,0,80,fixed continuous c; Boulsane large-N offset,33,37,0.9974015369562427,0.9974015369562418,19,5,-0.00771884545246615
+Boulsane_large_N,0,80,fixed continuous c; Boulsane large-N offset,37,45,0.9999883494471905,0.9999883494471892,15,5,-0.008362027908823233
+Boulsane_large_N,0,80,fixed continuous c; Boulsane large-N offset,45,57,0.9999990198323152,0.9999990198323145,13,6,-0.005814526694622568
+Boulsane_large_N,0,80,fixed continuous c; Boulsane large-N offset,57,73,0.9999995627424219,0.999999562742421,12,6,-0.0034821073857917995
+Boulsane_large_N,0,80,fixed continuous c; Boulsane large-N offset,73,89,0.9999890909540029,0.9999890909540022,10,6,-0.0017098395375395592
+Boulsane_large_N,0,80,fixed continuous c; Boulsane large-N offset,89,121,0.9999999837469506,0.99999998374695,22,6,-0.0015745408071486944
+Boulsane_large_N,1,10,fixed continuous c; Boulsane large-N offset,7,10,0.7273192714760385,0.7273192714760385,3,3,-0.003924952429014028
+Boulsane_large_N,1,10,fixed continuous c; Boulsane large-N offset,10,14,0.7156622770774038,0.7156622770774038,4,3,-0.0018092827459954552
+Boulsane_large_N,1,10,fixed continuous c; Boulsane large-N offset,14,22,0.8109241680691419,0.8109241680691419,3,3,-0.0011295753967
+Boulsane_large_N,1,10,fixed continuous c; Boulsane large-N offset,22,34,0.8048286988774128,0.8048286988774128,3,3,-0.00045532429592609613
+Boulsane_large_N,1,10,fixed continuous c; Boulsane large-N offset,34,50,0.7721570672988978,0.7721570672988978,4,3,-0.0001793933359355293
+Boulsane_large_N,1,10,fixed continuous c; Boulsane large-N offset,50,66,0.6650818568485448,0.6650818568485448,15,3,-6.652778482507671e-05
+Boulsane_large_N,1,10,fixed continuous c; Boulsane large-N offset,66,98,0.782200185549799,0.782200185549799,3,3,-4.939723296859544e-05
+Boulsane_large_N,1,20,fixed continuous c; Boulsane large-N offset,11,14,0.8846361855838427,0.8846361855838427,6,5,-0.007980653259247017
+Boulsane_large_N,1,20,fixed continuous c; Boulsane large-N offset,14,18,0.8979238007832395,0.8979238007832395,6,5,-0.0046694570358642995
+Boulsane_large_N,1,20,fixed continuous c; Boulsane large-N offset,18,26,0.9722523597398309,0.9722523597398309,6,5,-0.0035557969400622502
+Boulsane_large_N,1,20,fixed continuous c; Boulsane large-N offset,26,38,0.9775675084586032,0.9775675084586032,6,5,-0.0017063429059087643
+Boulsane_large_N,1,20,fixed continuous c; Boulsane large-N offset,38,54,0.9688994250346724,0.9688994250346724,7,5,-0.0007564894682916545
+Boulsane_large_N,1,20,fixed continuous c; Boulsane large-N offset,54,70,0.9140609799096356,0.9140609799096356,6,5,-0.0003013973255425739
+Boulsane_large_N,1,20,fixed continuous c; Boulsane large-N offset,70,102,0.9784434924745157,0.9784434924745157,7,5,-0.000235342130455507
+Boulsane_large_N,1,40,fixed continuous c; Boulsane large-N offset,17,20,0.9736040690130364,0.9736040690130362,11,5,-0.01114435613579745
+Boulsane_large_N,1,40,fixed continuous c; Boulsane large-N offset,20,24,0.9835364824794895,0.9835364824794895,11,5,-0.007726584800780145
+Boulsane_large_N,1,40,fixed continuous c; Boulsane large-N offset,24,32,0.9993008455014153,0.9993008455014151,8,5,-0.006964713064766093
+Boulsane_large_N,1,40,fixed continuous c; Boulsane large-N offset,32,44,0.9997378536513513,0.999737853651351,11,5,-0.0039532683183662876
+Boulsane_large_N,1,40,fixed continuous c; Boulsane large-N offset,44,60,0.9996756850390371,0.9996756850390371,10,5,-0.001991483084165524
+Boulsane_large_N,1,40,fixed continuous c; Boulsane large-N offset,60,76,0.9967531894664169,0.9967531894664167,13,5,-0.0008632106697460395
+Boulsane_large_N,1,40,fixed continuous c; Boulsane large-N offset,76,108,0.9998880972831017,0.9998880972831015,9,5,-0.0007180467465845997
+Boulsane_large_N,1,80,fixed continuous c; Boulsane large-N offset,30,33,0.9899880299532745,0.9899880299532725,21,5,-0.014962528752410331
+Boulsane_large_N,1,80,fixed continuous c; Boulsane large-N offset,33,37,0.9976285337005305,0.9976285337005298,14,6,-0.011030082500824823
+Boulsane_large_N,1,80,fixed continuous c; Boulsane large-N offset,37,45,0.9999859511727488,0.9999859511727481,19,6,-0.011012592072807026
+Boulsane_large_N,1,80,fixed continuous c; Boulsane large-N offset,45,57,0.9999990008102785,0.9999990008102774,9,6,-0.0071943084635486265
+Boulsane_large_N,1,80,fixed continuous c; Boulsane large-N offset,57,73,0.9999994194606603,0.9999994194606598,10,6,-0.004156274696926809
+Boulsane_large_N,1,80,fixed continuous c; Boulsane large-N offset,73,89,0.9999895633800326,0.999989563380032,19,6,-0.0020045161829351787
+Boulsane_large_N,1,80,fixed continuous c; Boulsane large-N offset,89,121,0.9999999871933265,0.9999999871933261,13,6,-0.0018273321822157573
+Boulsane_large_N,2,10,fixed continuous c; Boulsane large-N offset,7,10,0.6824499245114951,0.6824499245114951,2,2,-0.0028237452659778395
+Boulsane_large_N,2,10,fixed continuous c; Boulsane large-N offset,10,14,0.6744043694373035,0.6744043694373035,2,2,-0.0014215318011077116
+Boulsane_large_N,2,10,fixed continuous c; Boulsane large-N offset,14,22,0.823726933889135,0.823726933889135,2,2,-0.0009386930391659387
+Boulsane_large_N,2,10,fixed continuous c; Boulsane large-N offset,22,34,0.8179622707913545,0.8179622707913545,2,2,-0.0003936573069137639
+Boulsane_large_N,2,10,fixed continuous c; Boulsane large-N offset,34,50,0.7717594203370537,0.7717594203370537,2,2,-0.00015858978228933118
+Boulsane_large_N,2,10,fixed continuous c; Boulsane large-N offset,50,66,0.6235724148018877,0.6235724148018877,3,2,-5.9522626598695894e-05
+Boulsane_large_N,2,10,fixed continuous c; Boulsane large-N offset,66,98,0.789197269984083,0.789197269984083,2,2,-4.453970481155256e-05
+Boulsane_large_N,2,20,fixed continuous c; Boulsane large-N offset,10,13,0.8993582430789187,0.8993582430789187,5,4,-0.005222334390104444
+Boulsane_large_N,2,20,fixed continuous c; Boulsane large-N offset,13,17,0.9132422763161386,0.9132422763161386,5,4,-0.0031341109685589785
+Boulsane_large_N,2,20,fixed continuous c; Boulsane large-N offset,17,25,0.9806251340806617,0.9806251340806617,5,4,-0.0024072409712833087
+Boulsane_large_N,2,20,fixed continuous c; Boulsane large-N offset,25,37,0.9828293254472562,0.9828293254472562,5,4,-0.0011538919187360497
+Boulsane_large_N,2,20,fixed continuous c; Boulsane large-N offset,37,53,0.9767329682839101,0.9767329682839101,5,4,-0.0005088762619198661
+Boulsane_large_N,2,20,fixed continuous c; Boulsane large-N offset,53,69,0.9244965627438082,0.9244965627438082,5,4,-0.00020174848446807836
+Boulsane_large_N,2,20,fixed continuous c; Boulsane large-N offset,69,101,0.9824077220640042,0.9824077220640042,5,4,-0.00015686207413123654
+Boulsane_large_N,2,40,fixed continuous c; Boulsane large-N offset,16,19,0.9727410639894011,0.9727410639894011,7,5,-0.009764201356435631
+Boulsane_large_N,2,40,fixed continuous c; Boulsane large-N offset,19,23,0.9863492755638634,0.9863492755638632,9,6,-0.005780111868309623
+Boulsane_large_N,2,40,fixed continuous c; Boulsane large-N offset,23,31,0.9992546707449236,0.9992546707449229,7,6,-0.004651589490223151
+Boulsane_large_N,2,40,fixed continuous c; Boulsane large-N offset,31,43,0.9996609118715707,0.9996609118715698,12,6,-0.002430062737065586
+Boulsane_large_N,2,40,fixed continuous c; Boulsane large-N offset,43,59,0.9995841725775203,0.9995841725775196,9,6,-0.0011685589417060882
+Boulsane_large_N,2,40,fixed continuous c; Boulsane large-N offset,59,75,0.9973680547564823,0.997368054756482,15,6,-0.0004946086874801914
+Boulsane_large_N,2,40,fixed continuous c; Boulsane large-N offset,75,107,0.999880294536311,0.999880294536311,10,6,-0.00040554326089470294
+Boulsane_large_N,2,80,fixed continuous c; Boulsane large-N offset,29,32,0.9927879843441744,0.9927879843441735,13,5,-0.009244972614251279
+Boulsane_large_N,2,80,fixed continuous c; Boulsane large-N offset,32,36,0.9973979803899633,0.997397980389962,20,5,-0.007523623885714481
+Boulsane_large_N,2,80,fixed continuous c; Boulsane large-N offset,36,44,0.9999883438174267,0.9999883438174261,8,5,-0.008101771532616042
+Boulsane_large_N,2,80,fixed continuous c; Boulsane large-N offset,44,56,0.9999990050143361,0.999999005014335,21,6,-0.005601319526405746
+Boulsane_large_N,2,80,fixed continuous c; Boulsane large-N offset,56,72,0.9999995566980028,0.9999995566980019,12,6,-0.0033410869043294378
+Boulsane_large_N,2,80,fixed continuous c; Boulsane large-N offset,72,88,0.999989078055169,0.9999890780551683,11,6,-0.0016368277493841177
+Boulsane_large_N,2,80,fixed continuous c; Boulsane large-N offset,88,120,0.9999999836129192,0.999999983612919,23,6,-0.0015050758882118043
+Boulsane_large_N,4,10,fixed continuous c; Boulsane large-N offset,6,9,0.6002862809278972,0.6002862809278972,1,1,-0.0003857109569719297
+Boulsane_large_N,4,10,fixed continuous c; Boulsane large-N offset,9,13,0.6003255244763808,0.6003255244763808,2,1,-0.00016356170993214736
+Boulsane_large_N,4,10,fixed continuous c; Boulsane large-N offset,13,21,0.7290968675139786,0.7290968675139786,1,1,-9.660467041228138e-05
+Boulsane_large_N,4,10,fixed continuous c; Boulsane large-N offset,21,33,0.7251153247991762,0.7251153247991762,1,1,-3.779271069537238e-05
+Boulsane_large_N,4,10,fixed continuous c; Boulsane large-N offset,33,49,0.6838964476893612,0.6838964476893612,1,1,-1.4769119625501759e-05
+Boulsane_large_N,4,10,fixed continuous c; Boulsane large-N offset,49,65,0.5684767475480137,0.5684767475480137,1,1,-5.475476055893935e-06
+Boulsane_large_N,4,10,fixed continuous c; Boulsane large-N offset,65,97,0.6995625662660657,0.6995625662660657,6,1,-4.072999144622003e-06
+Boulsane_large_N,4,20,fixed continuous c; Boulsane large-N offset,9,12,0.8835990654310475,0.8835990654310475,4,4,-0.003016950388896711
+Boulsane_large_N,4,20,fixed continuous c; Boulsane large-N offset,12,16,0.8997766059739281,0.8997766059739281,4,4,-0.0016980327469074963
+Boulsane_large_N,4,20,fixed continuous c; Boulsane large-N offset,16,24,0.9789762865412739,0.9789762865412739,4,4,-0.0012456385146478732
+Boulsane_large_N,4,20,fixed continuous c; Boulsane large-N offset,24,36,0.9817753702806842,0.9817753702806842,4,4,-0.0005788014943891584
+Boulsane_large_N,4,20,fixed continuous c; Boulsane large-N offset,36,52,0.9744847721754565,0.9744847721754565,4,4,-0.00025146132835762725
+Boulsane_large_N,4,20,fixed continuous c; Boulsane large-N offset,52,68,0.9136083334148791,0.9136083334148791,4,4,-9.904872068466908e-05
+Boulsane_large_N,4,20,fixed continuous c; Boulsane large-N offset,68,100,0.9813678279690745,0.9813678279690745,5,4,-7.6758038731084e-05
+Boulsane_large_N,4,40,fixed continuous c; Boulsane large-N offset,16,19,0.9628731342240573,0.9628731342240571,7,5,-0.004009233349567931
+Boulsane_large_N,4,40,fixed continuous c; Boulsane large-N offset,19,23,0.9810315132383903,0.9810315132383903,9,5,-0.002093266146722783
+Boulsane_large_N,4,40,fixed continuous c; Boulsane large-N offset,23,31,0.9990561249869563,0.9990561249869561,11,6,-0.00194374977545142
+Boulsane_large_N,4,40,fixed continuous c; Boulsane large-N offset,31,43,0.9995598684717454,0.9995598684717452,8,6,-0.001162391514004324
+Boulsane_large_N,4,40,fixed continuous c; Boulsane large-N offset,43,59,0.9994986663963875,0.9994986663963875,13,6,-0.0006028132675208742
+Boulsane_large_N,4,40,fixed continuous c; Boulsane large-N offset,59,75,0.997051764500815,0.9970517645008148,9,6,-0.00026530503137001116
+Boulsane_large_N,4,40,fixed continuous c; Boulsane large-N offset,75,107,0.9998495522205014,0.9998495522205014,8,6,-0.00022283468851436172
+Boulsane_large_N,4,80,fixed continuous c; Boulsane large-N offset,28,31,0.9927658176509676,0.9927658176509658,16,5,-0.00870229833961722
+Boulsane_large_N,4,80,fixed continuous c; Boulsane large-N offset,31,35,0.9973883043051703,0.9973883043051697,14,5,-0.006957046450913662
+Boulsane_large_N,4,80,fixed continuous c; Boulsane large-N offset,35,43,0.999988326104029,0.9999883261040279,21,5,-0.007351501674483174
+Boulsane_large_N,4,80,fixed continuous c; Boulsane large-N offset,43,55,0.9999989597974591,0.9999989597974585,10,6,-0.004990479601277409
+Boulsane_large_N,4,80,fixed continuous c; Boulsane large-N offset,55,71,0.9999995375258153,0.9999995375258148,16,6,-0.002938772506052789
+Boulsane_large_N,4,80,fixed continuous c; Boulsane large-N offset,71,87,0.9999890488144844,0.9999890488144837,14,6,-0.0014290396796555749
+Boulsane_large_N,4,80,fixed continuous c; Boulsane large-N offset,87,119,0.9999999832516614,0.9999999832516612,10,6,-0.001307691655420662

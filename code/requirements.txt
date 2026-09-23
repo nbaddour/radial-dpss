@@ -1,0 +1,8 @@
+# Radial DPSS computational pipeline — Python dependencies (Task 12.9).
+# Pinned to the versions the Stage-5 pipeline was developed and tested against (2026-06).
+# Newer patch releases are expected to work; these are the known-good baseline.
+numpy==2.2.6
+scipy==1.15.3
+mpmath==1.3.0      # 40-digit ground-truth checks (Task 12.5); optional at runtime, required for tests
+pytest==9.1.1      # test runner (Task 12.9)
+matplotlib==3.10.9 # campaign figures (Task 13.7 onward); not needed for the pipeline/tests

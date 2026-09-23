@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software or the accompanying datasets, please cite them as below."
+title: "Finite radial prolate framework: computational pipeline and CPSWF benchmark datasets"
+abstract: >-
+  Reproducible Python pipeline for the finite radial prolate framework: assembling the finite
+  radial prolate matrix on a Bessel-zero grid as the operator image of the continuous principal
+  operator B_R B_K B_R, solving its eigenproblem, and reconstructing continuous approximants of
+  the circular/radial prolate spheroidal wave functions (CPSWFs), together with the ground-truth
+  benchmark, validation-campaign, and pilot datasets. This archive is the computational
+  companion to the manuscript "Fourier-Bessel Ritz Approximation of Circular Prolate Spheroidal
+  Wave Functions" by Natalie Baddour.
+type: software
+authors:
+  - family-names: Baddour
+    given-names: Natalie
+    orcid: "https://orcid.org/0000-0002-7025-7501"
+    affiliation: "Department of Mechanical Engineering, University of Ottawa, Ottawa, Ontario, Canada"
+    email: "nbaddour@uottawa.ca"
+version: "1.0.0"
+date-released: "2026-09-23"
+license: MIT
+keywords:
+  - prolate spheroidal wave functions
+  - circular prolate spheroidal wave functions
+  - Hankel transform
+  - Slepian concentration
+  - Fourier-Bessel
+  - discrete prolate spheroidal sequences
+  - spectral concentration

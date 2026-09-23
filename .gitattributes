@@ -1,0 +1,5 @@
+# Store and check out every file byte-for-byte, with no line-ending conversion.
+# The archive records SHA-256 hashes of its JSON and CSV outputs in
+# data/task_25_4_phase3/artifact_inventory.json, and any end-of-line translation
+# would change those bytes and break the recorded hashes on checkout.
+* -text

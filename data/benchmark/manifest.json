@@ -1,0 +1,190 @@
+{
+  "created": "2026-06-25",
+  "convention": "nondim x in [0,1], measure x dx, R=1, K=c=KR; eigenvalues descending; sign fixed so psi^{(m)}>0 at its max-|.| node (dual tied).",
+  "regimes": {
+    "0": "plateau (clustered lam~1, subspace-ambiguous)",
+    "1": "separated (individually reliable)",
+    "2": "deep-tail (lam<1e-06: dual/interp 1/lam-amplified)"
+  },
+  "plateau_tol": 1e-06,
+  "tail_tol": 1e-06,
+  "n_unif": 401,
+  "cases": [
+    {
+      "file": "cpswf_n0_c10.npz",
+      "n": 0,
+      "c": 10.0,
+      "Mn": 3,
+      "nmodes": 8,
+      "Nq": 200,
+      "n_plateau": 1,
+      "n_separated": 5,
+      "n_tail": 2
+    },
+    {
+      "file": "cpswf_n0_c20.npz",
+      "n": 0,
+      "c": 20.0,
+      "Mn": 6,
+      "nmodes": 11,
+      "Nq": 200,
+      "n_plateau": 3,
+      "n_separated": 7,
+      "n_tail": 1
+    },
+    {
+      "file": "cpswf_n0_c40.npz",
+      "n": 0,
+      "c": 40.0,
+      "Mn": 12,
+      "nmodes": 17,
+      "Nq": 200,
+      "n_plateau": 9,
+      "n_separated": 7,
+      "n_tail": 1
+    },
+    {
+      "file": "cpswf_n0_c80.npz",
+      "n": 0,
+      "c": 80.0,
+      "Mn": 25,
+      "nmodes": 30,
+      "Nq": 240,
+      "n_plateau": 21,
+      "n_separated": 9,
+      "n_tail": 0
+    },
+    {
+      "file": "cpswf_n1_c10.npz",
+      "n": 1,
+      "c": 10.0,
+      "Mn": 2,
+      "nmodes": 7,
+      "Nq": 200,
+      "n_plateau": 0,
+      "n_separated": 6,
+      "n_tail": 1
+    },
+    {
+      "file": "cpswf_n1_c20.npz",
+      "n": 1,
+      "c": 20.0,
+      "Mn": 6,
+      "nmodes": 11,
+      "Nq": 200,
+      "n_plateau": 3,
+      "n_separated": 6,
+      "n_tail": 2
+    },
+    {
+      "file": "cpswf_n1_c40.npz",
+      "n": 1,
+      "c": 40.0,
+      "Mn": 12,
+      "nmodes": 17,
+      "Nq": 200,
+      "n_plateau": 9,
+      "n_separated": 7,
+      "n_tail": 1
+    },
+    {
+      "file": "cpswf_n1_c80.npz",
+      "n": 1,
+      "c": 80.0,
+      "Mn": 25,
+      "nmodes": 30,
+      "Nq": 240,
+      "n_plateau": 21,
+      "n_separated": 8,
+      "n_tail": 1
+    },
+    {
+      "file": "cpswf_n2_c10.npz",
+      "n": 2,
+      "c": 10.0,
+      "Mn": 2,
+      "nmodes": 7,
+      "Nq": 200,
+      "n_plateau": 0,
+      "n_separated": 5,
+      "n_tail": 2
+    },
+    {
+      "file": "cpswf_n2_c20.npz",
+      "n": 2,
+      "c": 20.0,
+      "Mn": 5,
+      "nmodes": 10,
+      "Nq": 200,
+      "n_plateau": 2,
+      "n_separated": 7,
+      "n_tail": 1
+    },
+    {
+      "file": "cpswf_n2_c40.npz",
+      "n": 2,
+      "c": 40.0,
+      "Mn": 11,
+      "nmodes": 16,
+      "Nq": 200,
+      "n_plateau": 8,
+      "n_separated": 7,
+      "n_tail": 1
+    },
+    {
+      "file": "cpswf_n2_c80.npz",
+      "n": 2,
+      "c": 80.0,
+      "Mn": 24,
+      "nmodes": 29,
+      "Nq": 240,
+      "n_plateau": 20,
+      "n_separated": 9,
+      "n_tail": 0
+    },
+    {
+      "file": "cpswf_n4_c10.npz",
+      "n": 4,
+      "c": 10.0,
+      "Mn": 1,
+      "nmodes": 6,
+      "Nq": 200,
+      "n_plateau": 0,
+      "n_separated": 4,
+      "n_tail": 2
+    },
+    {
+      "file": "cpswf_n4_c20.npz",
+      "n": 4,
+      "c": 20.0,
+      "Mn": 4,
+      "nmodes": 9,
+      "Nq": 200,
+      "n_plateau": 1,
+      "n_separated": 7,
+      "n_tail": 1
+    },
+    {
+      "file": "cpswf_n4_c40.npz",
+      "n": 4,
+      "c": 40.0,
+      "Mn": 11,
+      "nmodes": 16,
+      "Nq": 200,
+      "n_plateau": 7,
+      "n_separated": 8,
+      "n_tail": 1
+    },
+    {
+      "file": "cpswf_n4_c80.npz",
+      "n": 4,
+      "c": 80.0,
+      "Mn": 23,
+      "nmodes": 28,
+      "Nq": 240,
+      "n_plateau": 19,
+      "n_separated": 9,
+      "n_tail": 0
+    }
+  ]
+}

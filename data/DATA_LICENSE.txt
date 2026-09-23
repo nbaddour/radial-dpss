@@ -1,0 +1,24 @@
+Data license — Creative Commons Attribution 4.0 International (CC-BY-4.0)
+SPDX-License-Identifier: CC-BY-4.0
+
+Copyright (c) 2026 Natalie Baddour
+
+The datasets in this directory —
+  data/benchmark/  (ground-truth CPSWF eigenpairs from the Task 10 reference solver)
+  data/campaign/   (Task 13 validation-campaign result arrays)
+  data/pilot/      (Task 11 Gate-C pilot matrices and solutions)
+— are licensed under the Creative Commons Attribution 4.0 International License.
+
+You are free to share and adapt this material for any purpose, provided you give
+appropriate credit, provide a link to the license, and indicate if changes were
+made.
+
+Full license text: https://creativecommons.org/licenses/by/4.0/legalcode
+Human-readable summary: https://creativecommons.org/licenses/by/4.0/
+
+Attribution (suggested):
+  Baddour, N. (2026). Finite radial prolate framework — CPSWF benchmark and
+  validation datasets. [Data set, version <VERSION>, DOI <DOI-TO-BE-MINTED>].
+
+Note: the SOURCE CODE that generates and consumes these datasets is licensed
+separately under the MIT License (see ../LICENSE).

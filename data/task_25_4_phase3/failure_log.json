@@ -1,0 +1,47 @@
+{
+  "task": "25.4 Phase 3 gate and failure log",
+  "Gate_A_certification_integrity": {
+    "passed": false,
+    "classification": "formal frozen gate failure",
+    "reason": "144 deep-mode m=0 ordinary central references exceed 1 by 1.4e-14 to 2.6e-14; every uncertainty interval intersects the certificate"
+  },
+  "Gate_B_practical_certification": {
+    "passed": true,
+    "nontrivial_interval_count": 6
+  },
+  "Gate_C_mechanism": {
+    "passed": false,
+    "compatible_counts": {
+      "large_N": 15,
+      "half_mesh": 14,
+      "next_zero": 12
+    },
+    "next_zero_coefficient_window_case_count": 16,
+    "c80_contradictions": [
+      {
+        "n": 0,
+        "path": "next_zero"
+      },
+      {
+        "n": 2,
+        "path": "next_zero"
+      },
+      {
+        "n": 4,
+        "path": "next_zero"
+      }
+    ],
+    "oracle_is_separate_and_diagnostic": true
+  },
+  "Gate_D_boundary": {
+    "passed": true,
+    "supported_case_count": 16,
+    "eligible_case_count": 16
+  },
+  "Gate_E_fairness_and_paths": {
+    "passed": true,
+    "fixed_native_and_fixed_continuous_paths_kept_separate": true,
+    "oracle_presented_as_practical": false,
+    "Boulsane_closed_form_advantage_recorded": true
+  }
+}
